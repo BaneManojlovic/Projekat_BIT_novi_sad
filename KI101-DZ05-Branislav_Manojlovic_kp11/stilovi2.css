@@ -1,0 +1,120 @@
+
+div#centralniDeo2 {
+	border: 2px solid white;
+	height: 350px;
+	width: 830px;
+	float: left;
+	background: url(pozadina_bela5.jpg) repeat left top;
+	margin-top: 20px;
+	margin-left: 10px;
+	margin-bottom: 20px;
+	border-radius: 20px 20px 20px 20px;
+}
+
+#centralniDeo2 h2{
+	text-indent: 30px;
+	text-decoration: bold;
+	color: blue;
+}
+
+#centralniDeo2 p{
+	text-indent: 20px;
+	color: black;
+	font-family: Cursive;
+	font-size: 15px;
+	margin-left: 25px;
+	font-style: none;
+}
+
+div#centralniDeo3 {
+	border: 2px solid white;
+	height: 350px;
+	width: 830px;
+	float: left;
+	background: url(pozadina_bela5.jpg) repeat left top;
+	margin-top: 20px;
+	margin-left: 10px;
+	margin-bottom: 20px;
+	border-radius: 20px 20px 20px 20px;
+}
+
+#centralniDeo3 h2{
+	text-indent: 30px;
+	text-decoration: bold;
+	color: blue;
+}
+
+#centralniDeo3 p{
+	text-indent: 20px;
+	color: black;
+	font-family: Cursive;
+	font-size: 15px;
+	margin-left: 25px;
+	font-style: none;
+}
+
+#centralniDeo3 a{
+	float: right;
+	margin-right: 60px;
+}
+
+/****************************************************************************/
+div#centralniDeo4 {
+	border: 2px solid white;
+	height: 430px;
+	width: 830px;
+	float: left;
+	opacity: 0.7;
+	background: #000000;
+	filter: alpha(opacity=70);
+	margin-top: 20px;
+	margin-left: 10px;
+	margin-bottom: 20px;
+	border-radius: 20px 20px 20px 20px;
+}
+
+#centralniDeo4 h2{
+	text-indent: 30px;
+	text-decoration: bold;
+	color: white;
+}
+
+#telefon {
+	text-indent: 30px;
+	color: white;
+	font-family: Cursive;
+	font-size: 15px;
+	float: left;
+	width: 49%;
+}
+
+#container {
+	float: left;
+	width: 49%;
+}
+
+#container p{
+	color: white;
+	margin-left: 25px;
+}
+
+#fname, #lname, #tip, #Mtitle, #subject {
+	padding: 5px;
+	margin-bottom: 2px;
+	margin-right: 20px;
+	width: 250px;
+	float: right;
+}
+
+input[type=submit] {
+	padding: 7px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+	margin-top: 2px;
+	margin-left: 300px;
+}
+
+input[type=submit]:hover {
+    background-color: blue;
+	color: white;
+}
